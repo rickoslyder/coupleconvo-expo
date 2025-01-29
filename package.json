@@ -1,0 +1,28 @@
+{
+      "name": "couple-convo",
+      "version": "1.0.0",
+      "main": "node_modules/expo/AppEntry.js",
+      "scripts": {
+        "start": "npx expo start",
+        "android": "npx expo start --android",
+        "ios": "npx expo start --ios",
+        "web": "npx expo start --web"
+      },
+      "dependencies": {
+        "expo": "~50.0.0",
+        "expo-status-bar": "~1.11.0",
+        "react": "18.2.0",
+        "react-native": "0.73.0",
+        "@react-navigation/native": "^6.1.8",
+        "@react-navigation/native-stack": "^6.9.14",
+        "zustand": "^4.5.1",
+        "@react-native-async-storage/async-storage": "^1.21.0",
+        "openai": "^4.24.1"
+      },
+      "devDependencies": {
+        "@babel/core": "^7.20.0",
+        "@types/react": "~18.2.0",
+        "@types/react-native": "~0.73.0",
+        "typescript": "^5.2.2"
+      }
+    }

@@ -1,0 +1,18 @@
+export const categories = [
+      'Would you rather',
+      'Most likely to',
+      'Never have I ever',
+      'Complete the sentence',
+      'Fun questions',
+      'Deep questions',
+      'Controversial questions',
+      'First date questions',
+      'Cute/romantic questions',
+      'Future building questions',
+      'Adult questions',
+      'Relationship-tester questions',
+      'Learn more about family questions',
+      'Learn more about friend questions',
+      'White lie questions',
+      'Who’s the … questions',
+    ];
